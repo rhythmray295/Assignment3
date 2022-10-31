@@ -1,0 +1,10 @@
+Please use "b", "a" and "d" button to check the assignment requirements. All criterias are backed by how much distance the ball has travelled, so you need to restart the program
+each time you want to check its functions.
+
+The default speed is 10 and I cannot change that for anything, so it might feel there are "hiccups" here and there. Also, the 1/6th distances are approximate.
+
+
+Credit:
+1. https://assetstore.unity.com/packages/tools/utilities/b-zier-path-creator-136082
+
+Used the following asset to create the line, as it it was much easier to drag and drop, then to create from absolute scratch.
